@@ -16,7 +16,7 @@ This is a simple currency converter application built using Java and Swing. It a
 
 2. **Compile and Run**:
 - Open the project in your preferred Java IDE (e.g., NetBeans, IntelliJ).
--Compile and run the CurrencyConvert.java file.
+- Compile and run the CurrencyConvert.java file.
 
 ## 💡 Usage
 
