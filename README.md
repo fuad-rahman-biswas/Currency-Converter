@@ -2,6 +2,16 @@
 
 This is a simple currency converter application built using Java and Swing. It allows users to convert between various currencies using real-time exchange rates.
 
+## 📸 Application Screenshot
+
+Here's a screenshot of the application in action
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0822baac-740e-44ec-8761-1f997d911793" alt="App Screenshot" width="400" />
+</div>
+
+The screenshot above shows the main interface of the application, including the key features and layout.
+
 ## ✨ Features
 
 - 💵 **Currency Selection**: Choose from a wide range of currencies using dropdown menus.
