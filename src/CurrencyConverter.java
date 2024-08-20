@@ -5,8 +5,8 @@ import java.io.*;
 import java.net.*;
 
 public class CurrencyConverter extends JFrame implements ActionListener {
-    private static final String API_KEY = "4aa8de0236afc0dbdbda5197";
-    private static final String API_ENDPOINT = "https://v6.exchangerate-api.com/v6/4aa8de0236afc0dbdbda5197/latest/";
+    private static final String API_KEY = "// Get your Free API Key from "https://www.exchangerate-api.com/";
+    private static final String API_ENDPOINT = "https://v6.exchangerate-api.com/v6/" + API_Key + "/latest/";
     public static String[] CURRENCIES = {
             "USD", "AED", "AFN", "ALL", "AMD", "ANG", "AOA", "ARS", "AUD", "AWG",
             "AZN", "BAM", "BBD", "BDT", "BGN", "BHD", "BIF", "BMD", "BND", "BOB",
