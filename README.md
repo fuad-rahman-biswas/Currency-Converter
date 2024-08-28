@@ -22,7 +22,7 @@ The screenshot above shows the main interface of the application, including the 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/fuad-rahman-biswas/currency-converter.git
 
 2. **Compile and Run**:
 - Open the project in your preferred Java IDE (e.g., NetBeans, IntelliJ).
